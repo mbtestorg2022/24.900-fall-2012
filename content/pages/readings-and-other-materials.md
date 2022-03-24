@@ -364,7 +364,7 @@ How many words for snow does Eskimo have? Should we care?
 
 Colapinto, John. "[The Interpreter](http://www.newyorker.com/reporting/2007/04/16/070416fa_fact_colapinto)." _The New Yorker_, April 2007, 118–37.
 
-Everett, Daniel L. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Cultural Constraints on Grammar and Cognition in Pirahã: Another Look at the Design Features of Human Language." (PDF)](http://www1.icsi.berkeley.edu/~kay/Everett.CA.Piraha.pdf) _Current Anthropology_ 46, no. 4 (2005): 621–46.
+Everett, Daniel L. "[Cultural Constraints on Grammar and Cognition in Pirahã: Another Look at the Design Features of Human Language." (PDF)](http://www1.icsi.berkeley.edu/~kay/Everett.CA.Piraha.pdf) _Current Anthropology_ 46, no. 4 (2005): 621–46.
 
 _A reply to the Everett article:_
 
